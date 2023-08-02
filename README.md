@@ -1,9 +1,3 @@
 # VariantFold
 
-A repository for work tailoring alphafold2 to generate variant protein models. We call this project "VariantFold".
-
-Aim
-Create a tool that will model pathogenic variants in proteins and use this information to inform classification of VUS's.
-
-Development state
-Currently in active development.
+This is a backup repository for the VariantFold project. Please follow the link to main repository: https://github.com/comparativechrono/VariantFold
